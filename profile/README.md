@@ -1,4 +1,7 @@
+# Nammabhasha
+
 ## Hi there 👋
+Nammabhasha is a spoken Kannada learning app built for practical, confidence-first learning. The web app includes structured lessons, review cards, mixed practice sessions, pronunciation drills, and day-in-life conversation scenarios. It also supports optional Kannada script and Hindi meaning aids for learners who benefit from multilingual scaffolding.
 
 <!--
 
